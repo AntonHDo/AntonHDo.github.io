@@ -3584,6 +3584,8 @@ body.single #wrapper {
 	font-size: 0.8em;
 }
 
+
+
 @media screen and (max-width: 1280px) {
 
 	#intro {
@@ -3598,6 +3600,7 @@ body.single #wrapper {
 	#intro header p {
 		font-size: 0.7em;
 	}
+
 
 }
 
